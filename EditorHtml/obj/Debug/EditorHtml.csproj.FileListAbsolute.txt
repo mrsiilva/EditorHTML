@@ -1,0 +1,8 @@
+C:\Users\mrsii\Desktop\EditorHtml\EditorHtml\bin\Debug\EditorHtml.exe.config
+C:\Users\mrsii\Desktop\EditorHtml\EditorHtml\bin\Debug\EditorHtml.exe
+C:\Users\mrsii\Desktop\EditorHtml\EditorHtml\bin\Debug\EditorHtml.pdb
+C:\Users\mrsii\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.csproj.AssemblyReference.cache
+C:\Users\mrsii\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrsii\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\mrsii\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.exe
+C:\Users\mrsii\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.pdb
